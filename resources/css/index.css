@@ -1,0 +1,35 @@
+body {
+  font-family: Verdana, Helvetica,  sans-serif;
+  background-color: black;
+  text-align: center;
+}
+
+.text_center {
+  text-align: center;
+}
+
+.background_black {
+  background-color: Black;
+}
+
+.download {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+p {
+  font-size: 21px;
+  color: Gray;
+}
